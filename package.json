@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy",
+    "build": "rm -rf dist && eleventy",
     "deploy": "npm run build && ./deploy.sh"
   },
   "repository": {

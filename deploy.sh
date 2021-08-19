@@ -3,14 +3,12 @@
 # This script needs appropriate permissions to be executable. 
 # Set them with: chmod +x ./deploy.sh
 
-echo "Synchronizing files that have changed"
-rclone copy \
+rsync \
+	--archive \
+	--compress \
+	--verbose \
 	--progress \
-	--ftp-concurrency 4 \
-	--checkers 2 \
-	--transfers 2 \
-	--exclude-from=".rclone-exclude" \
-	dist \
-	llll:public_html/llll.ro/
+	--exclude-from=".rsync-exclude" \
+	./dist/ llll:~/public_html/llll.ro
 
-# Note: the `llll` FTP host is defined with the `rclone config` command.
+# Note: the `llll` SSH host is defined in the `~/.ssh/config` file.
