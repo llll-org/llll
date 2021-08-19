@@ -22,7 +22,7 @@ layout: layouts/home.njk
 	</a>
 </div>
 
-## Gastronomie
+## Economie casnică
 
 <div class='book-covers'>
 	<a class='book-cover' href='./carte-intrucare-sa-scriu-mancarile' style='--bg-color: #d4b48b; --fg-color: black'>	

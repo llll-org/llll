@@ -63,3 +63,38 @@ a {
 	display: block;
 	font-size: 0.8em;
 }
+
+h1 {
+	font-size: 2.4em;
+	font-weight: normal;
+	line-height: 1.1;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+h2 {
+	font-size: 1.6em;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+h3 {
+	font-size: 1.2em;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+h4 {
+	font-size: 0.8em;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+h5, h6 {
+	font-size: 1em;
+	color: #999;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}

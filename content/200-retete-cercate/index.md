@@ -1,6 +1,7 @@
 ---
 titlu: 200 rețete cercate de bucate, prăjiturĭ și alte trebĭ gospodăreștĭ.
 an: 1842
+wip: true
 ---
 
 Tipărite cu cheltueala și îngrijirea uneĭ societățĭ de iubitori de înaintirea și strălucirea neamului Românesc.
@@ -262,9 +263,11 @@ Puiul grijit foarte curat și tăiat în patru, îl sarĭ pre cât trebue, și �
 
 ### № 63. Mĭel prăjit friptură.
 
-Eĭ carne de mĭel și taĭ tot feliĭ, și pe urmă o ferbĭ  cu puțin unt, apoĭ după ce se răcorește, o tăvăleștĭ în oŭ și o presărĭ bine cu posmag, și o prăjeștĭ în grăsime, apoĭ o pu˘i în farfuriĭ, și pune petrinjel pe deasupra.
+Eĭ carne de mĭel și taĭ tot feliĭ, și pe urmă o ferbĭ  cu puțin unt, apoĭ după ce se răcorește, o tăvăleștĭ în oŭ și o presărĭ bine cu posmag, și o prăjeștĭ în grăsime, apoĭ o puĭ în farfuriĭ, și pune petrinjel pe deasupra.
 
 ### № 64. Curcan umplutŭ.
+
+Să eĭ un curcan, să'l grijeștĭ, și să'ĭ taĭ pelea dealungul pe spate, și apoĭ cu'n cuțin să'ĭ taĭ cĭolanele pân la aripĭ și picĭoare, ferind de a tăĭa pelea, apo˘i ea ca o jumătate ocă carne de vițel, un maiŭ de gîscă și puțină slănină, și le toacă, dar nu prea tare părunt, ea și câteva trĭufe sau cĭuperce, și asemine tocate le pune la un loc de scadŭ cu puțin unt, petrinjel verde, [hagimă](#def-hagima), sare și piperiŭ, apo˘i le pune într'o strachină puind un oŭ întreg, și un gălbănuș, și le mestică bine; cu aceasta umple curcanul, și îĭ coasă pelea pe spate; după aceasta taĭe feliĭ de slănină tare subțirĭ, cu care învăleștĭ curcanul, și'l leagă pe deasupra cu ață, apoĭ îl așază în tingire, și'ĭ pune treĭ lingurĭ de zamă de vacă, jumătate de litră vin albŭ, puțin petrinjel verde, și hagimă, și'l lasă încet de ferbe, și când îĭ curcanul destul de moale, îl scoate și'l pune într'un loc să nu se răcească, apoĭ ea grăsime de pe sosŭ, ș'o strecoară pintr'o sîtă, ș'o lasă de ferbe pîn rămîne numaĭ puțină, și atunce deslegând slănina de pe curcan, îl așază pe farfuriĭ, și'ĭ toarnă deasupra acel puțin sosŭ, și pin pregĭurul farfurieĭ așază cartofe micĭ prăjite.
 
 ### № 65. Puĭ prăjițĭ.
 
@@ -551,6 +554,7 @@ Eĭ carne de mĭel și taĭ tot feliĭ, și pe urmă o ferbĭ  cu puțin unt, ap
 * <strong id='def-dram'>dram</strong>. (în Moldova) unitate de măsură echivalentă cu 3,23 grame sau 3,8 mililitri.
 * <strong id='def-floare-de-nucusoara'>floare de nucușoară</strong>. învelișul roșiatic al seminței de nucșor, folosit drept condiment; macis.
 * <strong id='def-friganea'>friganea</strong>. felie de pîine muiată în lapte și ou, apoi prăjită în grăsime.
+* <strong id='def-hagima'>hagimă</strong>. hașmă, șalotă; varietate de ceapă al cărei bulb conține mai mulți bulbi mici (_Allium cepa var. aggregatum_, fr. _échalote_, eng. _shallot_).
 * <strong id='def-harag'>harag</strong>. arac.
 * <strong id='def-harpacica'>harpacică</strong>. arpagic (_Allium schoenoprasum_, fr. _ciboulette_, eng. _chives_).
 * <strong id='def-hulub'>hulub</strong>. porumbel.

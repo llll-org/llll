@@ -71,7 +71,19 @@
 	margin: 1rem 0;
 }
 
-/*
-	Style: reference
-	----------------
- */
+.wip {
+	background: linear-gradient(to bottom, #fff6aa 0, white 50vh);
+}
+
+.wip:before {
+	content: 'În lucru';
+	position: fixed;
+	font-size: 0.8em;
+	text-transform: uppercase;
+	font-weight: bold;
+
+	background: #fc0;
+	padding: 0.5em 1em;
+	left: 0;
+	top: 0;
+}

@@ -1,6 +1,7 @@
 ---
 titlu: Carte întrucare să scriu mâncările de pèște i raci, stridii, melci, legumi, erburi și alte mâncări de sec și de dulce dupre orânduiala lor.
 an: sec. XVIII
+wip: true
 ---
 
 ## Mâncări de pèște. Crap.

@@ -6,6 +6,9 @@
 		<title>llll · {{ titlu }}</title>
 		<link rel="stylesheet" type="text/css" href="/style.css">
 		<link rel="stylesheet" type="text/css" href="/fonts/crimson-pro.css">
+		{% if custom_css %}
+		<link rel="stylesheet" type="text/css" href="/{{custom_css}}">
+		{% endif %}
 	</head>
 	<body>
 		<header>
