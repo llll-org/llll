@@ -1,5 +1,5 @@
 module.exports = function(eleventyConfig) {
-	eleventyConfig.setTemplateFormats(["md"]);
+	// eleventyConfig.setTemplateFormats(["md", "html"]);
 	eleventyConfig.addPassthroughCopy({
 		"public": "."
 	});

@@ -10,7 +10,7 @@ Sari la [Antichitate](#antichitate) · [Secolul XVIII](#sec-xviii) · [Secolul X
 
 ### Apicius – De re coqvinaria
 
-[Wikipedia](https://en.wikipedia.org/wiki/Apicius). Tradusă în limba română:
+O carte din Secolul I. Vezi detalii pe [Wikipedia](https://en.wikipedia.org/wiki/Apicius), citește versiunea bilingvă latină-engleză pe [Project Gutenberg](https://www.gutenberg.org/ebooks/29728). Ediția în limba română:
 
 <img class='cover' src='/img/culinaria/apicius.jpg'/>
 
