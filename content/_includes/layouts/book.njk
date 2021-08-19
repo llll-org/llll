@@ -4,11 +4,12 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:image" content="{{site.url}}/img/favicon.png" />
 		{% set page_title %}
 			{% if autor %} {{ autor }} — {% endif %}{{ titlu }} {% if an %}({{an}}){% endif %}
 		{% endset %}
 		<meta name="twitter:title" content="{{ page_title }}" />
-		<title>llll · {{ page_title }}</title>
+		<title>{{site.title}} · {{ page_title }}</title>
 		<link rel="stylesheet" type="text/css" href="/style.css">
 		<link rel="stylesheet" type="text/css" href="/book.css">
 		<link rel="stylesheet" type="text/css" href="/fonts/crimson-pro.css">
