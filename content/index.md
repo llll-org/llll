@@ -45,6 +45,10 @@ layout: layouts/home.njk
 	</a>
 </div>
 
+## Bibliografii
+
+* [Culinaria: mică bibliografie culinară românească](/culinaria)
+
 ## Meta
 
 * [OCR Checklist](../meta/ocr-checklist)
