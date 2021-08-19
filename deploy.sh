@@ -9,6 +9,8 @@ rsync \
 	--verbose \
 	--progress \
 	--exclude-from=".rsync-exclude" \
+	--delete-excluded \
+	--filter="P tools/" \
 	./dist/ llll:~/public_html/llll.ro
 
 # Note: the `llll` SSH host is defined in the `~/.ssh/config` file.
