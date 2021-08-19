@@ -3,6 +3,7 @@ titlu: De două mii de ani
 autor: Mihail Sebastian
 an: 1934
 book_style: prose
+wip: true
 ---
 
 <figure>

@@ -3,14 +3,21 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>llll · {% if autor %} {{ autor }} — {% endif %}{{ titlu }} {% if an %}({{an}}){% endif %}</title>
+		<meta name="twitter:card" content="summary" />
+		{% set page_title %}
+			{% if autor %} {{ autor }} — {% endif %}{{ titlu }} {% if an %}({{an}}){% endif %}
+		{% endset %}
+		<meta name="twitter:title" content="{{ page_title }}" />
+		<title>llll · {{ page_title }}</title>
 		<link rel="stylesheet" type="text/css" href="/style.css">
 		<link rel="stylesheet" type="text/css" href="/book.css">
 		<link rel="stylesheet" type="text/css" href="/fonts/crimson-pro.css">
 	</head>
 	<body class='{% if wip %}wip{% endif %}'>
 		<header>
-			<a class='logo' href='/'>Edițiile llll</a>
+			<a class='logo' href='/'>
+				<img src='/svg/llll.svg' alt='Edițiile llll'/>
+			</a>
 		</header>
 		<article class='book {% if book_style %}book--{{book_style}}{% endif %}'>
 			<h1>

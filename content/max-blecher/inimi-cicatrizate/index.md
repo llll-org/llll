@@ -3,6 +3,7 @@ titlu: Inimi cicatrizate
 autor: Max Blecher
 an: 1937
 book_style: prose
+wip: true
 ---
 
 > „Quel terrible souvenir à affronter” — Kirkegaard

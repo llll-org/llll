@@ -2,6 +2,7 @@
 titlu: "Culinaria: mică bibliografie culinară românească"
 layout: layouts/basic.njk
 custom_css: bibliography.css
+wip: true
 ---
 
 Sari la [Antichitate](#antichitate) · [Secolul XVIII](#sec-xviii) · [Secolul XIX](#sec-xix) · [Secolul XX](#sec-xx)
