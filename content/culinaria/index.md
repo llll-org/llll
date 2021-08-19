@@ -19,11 +19,11 @@ Apicius, Theodor Georgescu (trad.), _De re coqvinaria · Arta culinară sau buc�
 
 <h2 id='sec-xviii'>Secolul XVIII</h2>
 
-### Carte întrucare să scriu mâncările
+### Carte întrucare să scriu mâncările de pèște i raci, stridii, melci, legumi, erburi și alte mâncări de sec și de dulce dupre orânduiala lor.
 
 <img class='cover' src='/img/culinaria/carte-intrucare-sa-scriu-mancarile.jpg'/>
 
-_…de pèște i raci, stridii, melci, legumi, erburi și alte mâncări de sec și de dulce dupre orânduiala lor._, Țara Românească, sec. XVIII. 
+Țara Românească, sec. XVIII. 
 
 Răsfoiește pe [Medievalia](https://medievalia.com.ro/manuscrise/item/ms-rom-1120), citește pe [llll](/carte-intrucare-sa-scriu-mancarile).
 
@@ -53,6 +53,8 @@ Editura Dacia, Cluj, 1973.
 <img class='cover' src='/img/culinaria/draghici.jpg'/>
 
 _…din bucătăria cea mare a lui Robert, întâiul bucătar a Curții Franției, potrivit pentru toate stările_, Post. Manolaki Drăghici, Tipografia Institutul Albinei, Iașii, 1846.
+
+Tradusă după _La Grande Cuisine simplifiée, art de la cuisine nouvelle, mise a la portée de toutes les fortunes_.
 
 ### Buna menageră, carte de bucate practică
 
@@ -227,6 +229,9 @@ Maria General Dobrescu, _Bucătăria modernă_, Editura Librăriei SOCEC & Co., 
 
 Maria General Dobrescu, _Dulciuri_, Editura Librăriei SOCEC & Co., S. A., București, 1936.
 
+### Bucătăria gospodinei române
+
+#### Ediții
 
 <img class='cover' src='/img/culinaria/constantinescu-1936.jpg'/>
 
@@ -237,8 +242,9 @@ Elena Constantinescu, _Bucătăria gospodinei române_, Institut de arte grafice
 
 Elena Constantinescu, _Bucătăria gospodinei române_, Tip. „Tirajul”, București, 1937.
 
+### Les bons plats Roumains
 
-<img class='cover' src='/img/culinaria/bons-plats.jpg'/>
+<a href='/img/culinaria/bons-plats.jpg'><img class='cover' src='/img/culinaria/bons-plats.jpg'/></a>
 
 _Les bons plats Roumains_, Imprimerie „Luceafărul” S.A., Bucarest, 1937.
 

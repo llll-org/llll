@@ -2,48 +2,16 @@
 layout: layouts/home.njk
 ---
 
-## Literatură
+## Documente
 
-<div class='book-covers'>
-	<a class='book-cover' href='./urmuz/urmuz' style='--bg-color: #6764ab; --fg-color: white'>	
-		<span class='book-author'>Urmuz</span>
-		<span class='book-title'>Urmuz</span>
-		<span class='book-year'>1930</span>
-	</a>
-	<a class='book-cover' href='./mihail-sebastian/de-doua-mii-de-ani' style='--bg-color: #23b2a9; --fg-color: black'>	
-		<span class='book-author'>Mihail Sebastian</span>
-		<span class='book-title'>De două mii de ani</span>
-		<span class='book-year'>1934</span>
-	</a>
-	<a class='book-cover' href='./max-blecher/inimi-cicatrizate' style='--bg-color: #e52220; --fg-color: white'>	
-		<span class='book-author'>Max Blecher</span>
-		<span class='book-title'>Inimi cicatrizate</span>
-		<span class='book-year'>1937</span>
-	</a>
-</div>
-
-## Economie casnică
-
-<div class='book-covers'>
-	<a class='book-cover' href='./carte-intrucare-sa-scriu-mancarile' style='--bg-color: #d4b48b; --fg-color: black'>	
-		<span class='book-title'>Carte întrucare să scriu mâncările</span>
-		<span class='book-year'>[sec. XVIII]</span>
-	</a>
-	<a class='book-cover' href='./200-retete-cercate' style='--bg-color: #6fc7d9; --fg-color: black'>	
-		<span class='book-title'>200 rețete cercate de bucate, prăjiturĭ și alte trebĭ gospodăreștĭ.</span>
-		<span class='book-year'>1842</span>
-	</a>
-</div>
-
-## Referință
-
-<div class='book-covers'>
-	<a class='book-cover' href='./stefan-florescu/dictionar-analogic' style='--bg-color: #ffd700; --fg-color: black'>	
-		<span class='book-author'>Ștefan Florescu</span>
-		<span class='book-title'>Dicționar analogic</span>
-		<span class='book-year'>1938</span>
-	</a>
-</div>
+An | Titlu | Autor
+-- | ----- | -----
+[sec. XVIII] | [Carte întrucare să scriu mâncările de pèște i raci, stridii, melci, legumi, erburi și alte mâncări de sec și de dulce dupre orânduiala lor.](/carte-intrucare-sa-scriu-mancarile) | ?
+1842 | [200 rețete cercate de bucate, prăjiturĭ și alte trebĭ gospodăreștĭ.](./200-retete-cercate) | [Mihail Kogălniceanu, Costache Negruzzi]
+1930 | [Urmuz](/urmuz/urmuz) | Urmuz
+1934 | [De două mii de ani](/mihail-sebastian/de-doua-mii-de-ani) | Mihail Sebastian
+1937 | [Inimi cicatrizate](/max-blecher/inimi-cicatrizate) | Max Blecher
+1938 | [Dicționar analogic](/stefan-florescu/dictionar-analogic) | Ștefan Florescu
 
 ## Bibliografii
 
