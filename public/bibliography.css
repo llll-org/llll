@@ -1,6 +1,13 @@
 article img {
 	width: 12rem;
+	height: auto;
 	margin: 0.5rem 0;
+	vertical-align: middle;
+box-shadow:
+  0 1.6px 2px -5px rgba(0, 0, 0, 0.101),
+  0 5.4px 6.7px -5px rgba(0, 0, 0, 0.149),
+  0 24px 30px -5px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
 }
 
 h1:target,
@@ -20,4 +27,18 @@ figure {
 
 figure img {
 	margin: 0 0 0.5rem;
+}
+
+.fig-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 1rem;
+	padding: 0.5rem;
+}
+
+.fig-grid a, .fig-grid img {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: 0;
 }

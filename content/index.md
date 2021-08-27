@@ -16,8 +16,10 @@ An | Titlu | Autor
 ## Bibliografii
 
 * [Culinaria: mică bibliografie culinară românească](/culinaria)
+* [Typographica: arta tiparului și designul grafic în spațiul românesc](/typographica)
 
 ## Meta
 
 * [OCR Checklist](../meta/ocr-checklist)
-* [Vizor](../tools/vizor)
+* [Vizor: unealtă online pentru OCR](../tools/vizor)
+* [Legături utile](../meta/legaturi-utile)
